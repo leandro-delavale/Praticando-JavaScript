@@ -29,7 +29,7 @@
 //     console.log("reprovado");
 // }
 
-// // quarto exercício
+// quarto exercício
 
 // let numero = 1;
 
@@ -53,7 +53,7 @@
 //     console.log("adulto")
 // }
 
-// // sexto exercício
+// sexto exercício
 // let numero = 10;
 // if (numero % 2 == 0) {
 //     console.log("é divísivel por 2");
@@ -61,7 +61,7 @@
 //     console.log("não é divisível por 2");
 // }
 
-// // Nivel intermediario 1
+// Nivel intermediario 1
 // let num1 = 10;
 // let num2 = 5;
 // let operacao = "+";
@@ -103,7 +103,7 @@
 //     console.log(`o maior numero é ${num3}`)
 // }
 
-// // Nível intermediario 3
+// Nível intermediario 3
 // let num1 = 60;
 // let desconto;
 
@@ -115,7 +115,7 @@
 //     console.log(`O valor a pagar é de: ${num1}`);
 // }
 
-// // Nível intermediário 4
+// Nível intermediário 4
 // let usuario = prompt("Digite o seu nome: ")
 // let senha = prompt("Digite o sua senha: ")
 

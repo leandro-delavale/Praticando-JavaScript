@@ -67,7 +67,7 @@ elementos.forEach(elemento => {
 
 // mouseout -> quando o mouse sai
 // elemento.addEventListener("mouseout", () => {
-//     // elemento.style.backgroundColor = "#0000FF";
+// elemento.style.backgroundColor = "#0000FF";
 //     elemento.style.backgroundColor = "";
 // })
 
@@ -130,4 +130,4 @@ botao.addEventListener("click", () => {
     lista.appendChild(li);
 
     input.value = "";
-})
+}) 
